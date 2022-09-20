@@ -1,16 +1,12 @@
-### Hi there 👋
+<h3 align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+  Welcome to Satya's profile!
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+</h3>
 
-<!--
-**hisatya/hisatya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h4 align="center">
+  This is the place where i upload my IoT & Data project. You can use that for FREE!
+</h4>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=hisatya&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Satya's github stats" /></a> | <a href="https://github.com/hisatya/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hisatya&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
